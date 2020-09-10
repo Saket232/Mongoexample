@@ -1,4 +1,3 @@
-
 FROM gitpod/workspace-full
 
 # Install mongodb
